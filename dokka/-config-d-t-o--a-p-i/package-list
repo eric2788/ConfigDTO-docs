@@ -1,0 +1,6 @@
+$dokka.format:html
+$dokka.linkExtension:html
+
+com.ericlam.mc.configdto
+com.ericlam.mc.configdto.annotation
+com.ericlam.mc.configdto.dao
