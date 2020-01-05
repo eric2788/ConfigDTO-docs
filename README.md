@@ -4,7 +4,7 @@ the document of ConfigDTO
 
 ## Link
 
-[Dependency Info](https://eric2788.github.io/ConfigDTO-docs/site/project-info.html)
+[Dependency Info](https://eric2788.github.io/ConfigDTO-docs/site/dependency-info.html)
 
 [Java docs](https://eric2788.github.io/ConfigDTO-docs/dokkaJavadoc)
 
